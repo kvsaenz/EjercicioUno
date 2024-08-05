@@ -1,0 +1,1 @@
+Este es el archivo dos (staging), contiene datos referentes al ejercicio uno
